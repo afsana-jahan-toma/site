@@ -47,5 +47,12 @@ section {
 
 
 .dream img {
-    width: 70%;
+    width: 80%;
+}
+
+.dream {
+    background-image: url(dream-bg.png );
+    background-repeat: no-repeat;
+    background-position: right;
+
 }
