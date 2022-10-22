@@ -1,3 +1,7 @@
+body {
+    margin: 0px;
+}
+
 h1 {
     color: black;
 
@@ -16,6 +20,7 @@ section {
 .half {
     width: 50%;
     padding: 10px 40px;
+    padding-left: 8%;
 
 }
 
@@ -25,9 +30,15 @@ section {
 
 .link-button {
     text-decoration: none;
-    background-color: rgb(15, 122, 48);
+    background-color: rgb(252, 84, 23);
     border: 1px;
     padding: 5px 5px;
     border-radius: 5px;
 
+}
+
+.top-banner {
+    background-image: url(top-banner.png);
+
+    background-repeat: no-repeat;
 }
