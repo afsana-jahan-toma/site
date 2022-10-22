@@ -1,0 +1,46 @@
+.s2 {
+    color: blue;
+    margin: 10px
+}
+
+.pd {
+    color: orange;
+}
+
+.new {
+
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-right: 8px;
+    border-radius: 10px;
+
+}
+
+.hd {
+    font-size: 30px;
+}
+
+.exp {
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+
+.new {
+    border-left: 10px solid rgb(228, 101, 16);
+}
+
+#blue {
+    border-left: 10px solid rgb(43, 43, 233);
+}
+
+.exp {
+    margin: 50px;
+}
+
+footer {
+    text-align: center;
+}
